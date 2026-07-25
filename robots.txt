@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-uwqhdh.kamikuni.co.il/sitemap.xml
